@@ -1,6 +1,7 @@
 package umc.spring.domain;
 
 import lombok.*;
+import org.hibernate.annotations.ColumnDefault;
 import umc.spring.domain.common.BaseEntity;
 
 import javax.persistence.*;
@@ -19,8 +20,9 @@ public class Notification extends BaseEntity {
     @JoinColumn(name = "member_id")
     private Member member;
 
-    @Column(columnDefinition = "TINYINT(1) DEFAULT 0")
-    private boolean isConfirmed;
+    @ColumnDefault("false")
+    @Column(columnDefinition = "TINYINT(1)")
+    private Boolean isConfirmed;
 
     @Column(nullable = false, length = 50)
     private String title;
