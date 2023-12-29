@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d15b6582-b4e6-4aaf-a250-5f5ab086be98" name="변경" comment="FEAT: 각 서비스별 조회 메서드에서 Optional 내용을 열 때 get메소드 -&gt; orElseThrow 변경2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Y7DMsAjaLqZDMw4TY3GYVDsgMp" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/wuseong/Library/Mobile Documents/com~apple~CloudDocs/umc/spring-A/5th_Spring_A/우스_장우성/spring&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;119b3df13ddf2e00acd0e388d154323c&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="umc.spring.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="d15b6582-b4e6-4aaf-a250-5f5ab086be98" name="변경" comment="" />
+      <created>1699867682743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699867682743</updated>
+      <workItem from="1699867683959" duration="428000" />
+      <workItem from="1699868148533" duration="14468000" />
+      <workItem from="1699929874800" duration="684000" />
+      <workItem from="1699930566986" duration="898000" />
+      <workItem from="1699931473008" duration="12637000" />
+      <workItem from="1700627601691" duration="10067000" />
+      <workItem from="1700836408882" duration="16532000" />
+      <workItem from="1700907954994" duration="8392000" />
+      <workItem from="1700916386421" duration="4828000" />
+      <workItem from="1700922347626" duration="40945000" />
+      <workItem from="1701147344334" duration="306000" />
+      <workItem from="1701436293090" duration="7383000" />
+      <workItem from="1702619209289" duration="6219000" />
+      <workItem from="1702880511017" duration="4746000" />
+      <workItem from="1702965414378" duration="9300000" />
+      <workItem from="1702976542576" duration="16276000" />
+      <workItem from="1703223494494" duration="649000" />
+      <workItem from="1703228715955" duration="1195000" />
+      <workItem from="1703339086226" duration="3552000" />
+      <workItem from="1703510299840" duration="2598000" />
+      <workItem from="1703573101780" duration="2545000" />
+    </task>
+    <task id="LOCAL-00001" summary="FEAT(8주차 워크북 수행): APiResponse 수정, Status 분리 및 완성, ResponseDTO들 생성, ErrorHandler처리">
+      <created>1700848301313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700848301314</updated>
+    </task>
+    <task id="LOCAL-00002" summary="FEAT(9주차 워크북 수행): 엔티티 오류들 수정, 간편 회원가입 시 필요한 컨버터, 컨트롤러, DTO, 서비스 생성 및 에러 처리, swagger설정">
+      <created>1700920308399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700920308399</updated>
+    </task>
+    <task id="LOCAL-00003" summary="FEAT: 가게에 리뷰 추가하는 API 구현">
+      <created>1701005705386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701005705386</updated>
+    </task>
+    <task id="LOCAL-00004" summary="FEAT: 가게에 미션 추가 Controller, Converter, DTO, Repository, Service 구현">
+      <created>1701008710319</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701008710320</updated>
+    </task>
+    <task id="LOCAL-00005" summary="FEAT: 이미 지난 데드라인 요청 ErrorStatus 생성, 이를 검증하는 어노테이션 및 Validator 생성, DTO에 검증 추가">
+      <created>1701010699929</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701010699929</updated>
+    </task>
+    <task id="LOCAL-00006" summary="FEAT: DTO에 검증 추가">
+      <created>1701010745128</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701010745128</updated>
+    </task>
+    <task id="LOCAL-00007" summary="FEAT: 가게의 미션을 수락하여 도전중인 미션 추가 구현중- Controller, Converter, DTO, Service 구현">
+      <created>1701017789356</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701017789357</updated>
+    </task>
+    <task id="LOCAL-00008" summary="FEAT: 가게의 미션을 수락하여 도전중인 미션 추가 구현완료 - 존재하지 않는 미션일 때, 유저가 이미 수락한 미션일 때 예외처리 구현">
+      <created>1701090383949</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701090383949</updated>
+    </task>
+    <task id="LOCAL-00009" summary="FEAT: 10주차 미션 완료">
+      <created>1703166637363</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703166637363</updated>
+    </task>
+    <task id="LOCAL-00010" summary="FEAT: 각 서비스별 조회 메서드에서 Optional 내용을 열 때 get메소드 -&gt; orElseThrow 변경">
+      <created>1703511920729</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703511920729</updated>
+    </task>
+    <task id="LOCAL-00011" summary="FEAT: 각 서비스별 조회 메서드에서 Optional 내용을 열 때 get메소드 -&gt; orElseThrow 변경2">
+      <created>1703511941221</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703511941221</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FEAT(8주차 워크북 수행): APiResponse 수정, Status 분리 및 완성, ResponseDTO들 생성, ErrorHandler처리" />
+    <MESSAGE value="FEAT(9주차 워크북 수행): 엔티티 오류들 수정, 간편 회원가입 시 필요한 컨버터, 컨트롤러, DTO, 서비스 생성 및 에러 처리, swagger설정" />
+    <MESSAGE value="FEAT: 가게에 리뷰 추가하는 API 구현" />
+    <MESSAGE value="FEAT: 가게에 미션 추가 Controller, Converter, DTO, Repository, Service 구현" />
+    <MESSAGE value="FEAT: 이미 지난 데드라인 요청 ErrorStatus 생성, 이를 검증하는 어노테이션 및 Validator 생성, DTO에 검증 추가" />
+    <MESSAGE value="FEAT: DTO에 검증 추가" />
+    <MESSAGE value="FEAT: 가게의 미션을 수락하여 도전중인 미션 추가 구현중- Controller, Converter, DTO, Service 구현" />
+    <MESSAGE value="FEAT: 가게의 미션을 수락하여 도전중인 미션 추가 구현완료 - 존재하지 않는 미션일 때, 유저가 이미 수락한 미션일 때 예외처리 구현" />
+    <MESSAGE value="FEAT: 10주차 미션 완료" />
+    <MESSAGE value="FEAT: 각 서비스별 조회 메서드에서 Optional 내용을 열 때 get메소드 -&gt; orElseThrow 변경" />
+    <MESSAGE value="FEAT: 각 서비스별 조회 메서드에서 Optional 내용을 열 때 get메소드 -&gt; orElseThrow 변경2" />
+    <option name="LAST_COMMIT_MESSAGE" value="FEAT: 각 서비스별 조회 메서드에서 Optional 내용을 열 때 get메소드 -&gt; orElseThrow 변경2" />
+  </component>
+</project>
